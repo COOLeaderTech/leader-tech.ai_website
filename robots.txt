@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://leader-tech.ai/sitemap.xml

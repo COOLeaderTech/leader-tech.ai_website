@@ -1,0 +1,16 @@
+# LeaderTech — Ship Management AI
+
+LeaderTech provides unprecedented ship management AI solutions for fleet operations, technical management, HSQE, and purchasing. It serves as an integrated work surface where ship operators and managers turn signal into decision and decision into record, with complete traceability.
+
+## Core Capabilities
+
+- **Fleet Operations**: Real-time monitoring of ETAs, exception detection, and automated follow-ups. Key views include active voyages and port statuses (e.g. `LT DIMMARE`, `LT BRIGHT`, `LT GLORY`).
+- **Technical Management**: Defect tracking, planned preventive maintenance scheduling, and diagnostics (e.g. monitoring auxiliary blower temperatures and generator maintenance target dates).
+- **HSQE Compliance**: Preparation workflows for SIRE 2.0 inspections, Port State Control (PSC) audit logs, drill record tracking, and cryptographic evidence verification.
+- **Purchasing & Procurement**: RFQ comparison, requisition workflows, and decision support aligned with port ETA windows.
+
+## Technical Details
+
+- **Domain**: [leader-tech.ai](https://leader-tech.ai/)
+- **Infrastructure**: Lightweight, high-performance single-page application built on HTML5, CSS3, and modern vanilla JavaScript. No framework overhead to ensure fast indexing and low-latency interaction.
+- **Security & Posture**: Role-Based Access Control (RBAC), immutable audit logs, full encryption (transit & rest), and optional private/on-prem network deployment.
